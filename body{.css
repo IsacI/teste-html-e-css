@@ -1,0 +1,21 @@
+body{
+background-color: brown;
+padding: 0;
+margin: ;
+display: grid;
+grid-template-columns: 1fr 3fr 1fr;
+}
+
+.topo{
+ background-color: #eee;
+}
+
+.menu{
+background-color:aqua;
+}
+.conteudo{
+background-color: blueviolet;
+}
+.propaganda{
+background-color: brown;
+}
